@@ -1,0 +1,15 @@
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\bin\Debug\net7.0\PremiumCalculation.exe
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\bin\Debug\net7.0\PremiumCalculation.deps.json
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\bin\Debug\net7.0\PremiumCalculation.runtimeconfig.json
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\bin\Debug\net7.0\PremiumCalculation.dll
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\bin\Debug\net7.0\PremiumCalculation.pdb
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.AssemblyInfoInputs.cache
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.AssemblyInfo.cs
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.dll
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\refint\PremiumCalculation.dll
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.pdb
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\PremiumCalculation.genruntimeconfig.cache
+C:\Users\danya\Desktop\testAssignment\TestAssignment\PremiumCalculation\PremiumCalculation\obj\Debug\net7.0\ref\PremiumCalculation.dll
